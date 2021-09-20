@@ -1,0 +1,183 @@
+﻿  01.cpp
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(364): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(370): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(376): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(382): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(465): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(471): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(477): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(483): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(490): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(829): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(834): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(844): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(981): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1001): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1021): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1041): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1094): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1114): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1134): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1154): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1174): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1178): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1182): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1190): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1194): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1198): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1206): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1210): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1213): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1217): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1221): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1229): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1236): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1248): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1252): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1256): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1259): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1263): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1275): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1282): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1286): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1290): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1294): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1298): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1302): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1306): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1311): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1315): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1319): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1323): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1327): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1330): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1335): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1339): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1343): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1347): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1351): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1354): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1358): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1362): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1366): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1370): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1374): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1377): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1382): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1386): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1390): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1394): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1398): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1401): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1405): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1409): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1413): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1417): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1421): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1424): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1429): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1433): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1437): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1441): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1445): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1448): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1452): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1456): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1460): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1464): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1468): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1471): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1475): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1479): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1483): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1487): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1491): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1494): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1633): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1958): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1961): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1972): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(1977): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\desktop\62010808\be the god gamer\be the god gamer\01.cpp(112): warning C4101: 'sta': unreferenced local variable
+  block.cpp
+  bomb.cpp
+  effect.cpp
+  entity.cpp
+  item.cpp
+  player.cpp
+  player2.cpp
+  wall.cpp
+  Generating code
+  537 of 547 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  be the god gamer.vcxproj -> C:\Users\ASUS\Desktop\62010808\be the god gamer\x64\Release\be the god gamer.exe
